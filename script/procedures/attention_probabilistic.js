@@ -1,6 +1,6 @@
-// const attention_check_procedure_base = {
-//     timeline: [attention_check_trial],
-// };
+const attention_check_procedure_base = {
+    timeline: [attention_check_trial],
+};
 
 let attention_check_procedure_prob1 = {
     ...attention_check_procedure_base,
