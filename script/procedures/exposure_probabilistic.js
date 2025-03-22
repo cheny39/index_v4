@@ -104,7 +104,7 @@ let exposure_procedure_prob_1_3 = {
         {
             video: "norl5_3.mp4",
             video_position: VIDEO_POSITIONS.RIGHT,
-            audio: "sheep_ka_norl5.wav",
+            audio: "sheep_po_norl5.wav",
             wrong_button_image: "sheep-1.jpg",
             wrong_button_position: EXPOSURE_BUTTON_POSITIONS.UPPER_RIGHT,
             correct_button_image: "sheep-4.jpg",
@@ -113,7 +113,7 @@ let exposure_procedure_prob_1_3 = {
         {
             video: "gulu7_1.mp4",
             video_position: VIDEO_POSITIONS.LEFT,
-            audio: "sheep_ka_gulu7.wav",
+            audio: "sheep_po_gulu7.wav",
             wrong_button_image: "sheep-1.jpg",
             wrong_button_position: EXPOSURE_BUTTON_POSITIONS.LOWER_RIGHT,
             correct_button_image: "sheep-4.jpg",
@@ -364,7 +364,7 @@ let exposure_procedure_prob_3_3 = {
         {
             video: "gulu7_3.mp4",
             video_position: VIDEO_POSITIONS.LEFT,
-            audio: "sheep_po_gulu7.wav",
+            audio: "sheep_ka_gulu7.wav",
             wrong_button_image: "sheep-1.jpg",
             wrong_button_position: EXPOSURE_BUTTON_POSITIONS.LOWER_RIGHT,
             correct_button_image: "sheep-2.jpg",
@@ -373,7 +373,7 @@ let exposure_procedure_prob_3_3 = {
         {
             video: "norl5_1.mp4",
             video_position: VIDEO_POSITIONS.RIGHT,
-            audio: "sheep_po_norl5.wav",
+            audio: "sheep_ka_norl5.wav",
             wrong_button_image: "sheep-1.jpg",
             wrong_button_position: EXPOSURE_BUTTON_POSITIONS.UPPER_RIGHT,
             correct_button_image: "sheep-2.jpg",
