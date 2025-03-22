@@ -1,28 +1,28 @@
-// const EXPOSURE_BUTTON_POSITIONS = {
-//     'UPPER_RIGHT': {
-//         left: 410,
-//         top: 150
-//     },
-//     'LOWER_RIGHT': {
-//         left: 410,
-//         top: 450
-//     }
-// };
+const EXPOSURE_BUTTON_POSITIONS = {
+    'UPPER_RIGHT': {
+        left: 410,
+        top: 150
+    },
+    'LOWER_RIGHT': {
+        left: 410,
+        top: 450
+    }
+};
 
-// const VIDEO_POSITIONS = {
-//     'LEFT': {
-//         left: 10,
-//         top: 150
-//     },
-//     'RIGHT': {
-//         left: 180,
-//         top: 150
-//     }
-// };
+const VIDEO_POSITIONS = {
+    'LEFT': {
+        left: 10,
+        top: 150
+    },
+    'RIGHT': {
+        left: 180,
+        top: 150
+    }
+};
 
-// const exposure_trial_procedure_base = {
-//     timeline: [exposure_trial],
-// };
+const exposure_trial_procedure_base = {
+    timeline: [exposure_trial],
+};
 
 let exposure_procedure_prob_1_1 = {
     ...exposure_trial_procedure_base,
