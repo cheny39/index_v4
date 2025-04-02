@@ -1,21 +1,21 @@
 const EXPOSURE_BUTTON_POSITIONS = {
     'UPPER_RIGHT': {
-        left: 410,
+        left: 350,
         top: 150
     },
     'LOWER_RIGHT': {
-        left: 410,
+        left: 350,
         top: 450
     }
 };
 
 const VIDEO_POSITIONS = {
     'LEFT': {
-        left: 10,
+        left: -20,
         top: 150
     },
     'RIGHT': {
-        left: 180,
+        left: 140,
         top: 150
     }
 };

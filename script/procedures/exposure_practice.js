@@ -8,36 +8,36 @@ let exposure_practice_trial_procedure = {
         {
             image:"gulu1.png",
             image_position: {
-                left: 50,
+                left: 20,
                 top: 120
             },
             audio: "v2_19.Touch_the_happy_face..wav",
             wrong_button_image: "sad_face.png",
             wrong_button_position: {
-                left: 410,
+                left: 350,
                 top: 150
             },
             correct_button_image: "happy_face.png",
             correct_button_position: {
-                left: 410,
+                left: 350,
                 top: 450
             },
         },
         {
             image:"norl1.png",
             image_position: {
-                left: 800,
+                left: 780,
                 top: 120
             },
             audio: "v2_22.Touch_the_sad_face..wav",
             wrong_button_image: "happy_face.png",
             wrong_button_position: {
-                left: 410,
+                left: 350,
                 top: 450
             },
             correct_button_image: "sad_face.png",
             correct_button_position: {
-                left: 410,
+                left: 350,
                 top: 150
             },
         },
