@@ -8,7 +8,7 @@ let attention_check_procedure_prob1 = {
         {
             image:"whitesquare.png",
             image_position: {
-                left: 780,
+                left: 760,
                 top: 150
             },
             audio: "who_just_said_pig_po.wav",
@@ -57,7 +57,7 @@ let attention_check_procedure_prob3 = {
         {
             image:"whitesquare.png",
             image_position: {
-                left: 780,
+                left: 760,
                 top: 150
             },
             audio: "who_just_said_sheep_po.wav",
@@ -81,7 +81,7 @@ let attention_check_procedure_prob4 = {
         {
             image:"norl1.png",
             image_position: {
-                left: 780,
+                left: 760,
                 top: 150
             },
             audio: "What_does_a_norl_like_to_eat.wav",
@@ -106,7 +106,7 @@ let attention_check_procedure_prob5 = {
         {
             image:"whitesquare.png",
             image_position: {
-                left: 780,
+                left: 760,
                 top: 150
             },
             audio: "who_just_said_chicken_ka.wav",
@@ -154,7 +154,7 @@ let attention_check_procedure_prob7 = {
         {
             image:"whitesquare.png",
             image_position: {
-                left: 780,
+                left: 760,
                 top: 150
             },
             audio: "who_just_said_duck_po.wav",
@@ -178,7 +178,7 @@ let attention_check_procedure_prob8 = {
         {
             image:"norl5.png",
             image_position: {
-                left: 780,
+                left: 760,
                 top: 150
             },
             audio: "What_does_a_norl_like_to_eat.wav",
@@ -201,7 +201,7 @@ let attention_check_procedure_prob9 = {
         {
             image:"whitesquare.png",
             image_position: {
-                left: 780,
+                left: 760,
                 top: 150
             },
             audio: "who_just_said_pig_ka.wav",
@@ -225,7 +225,7 @@ let attention_check_procedure_prob10 = {
         {
             image:"norl1.png",
             image_position: {
-                left: 780,
+                left: 760,
                 top: 150
             },
             audio: "What_does_a_norl_like_to_eat.wav",
@@ -248,7 +248,7 @@ let attention_check_procedure_prob11 = {
         {
             image:"whitesquare.png",
             image_position: {
-                left: 780,
+                left: 760,
                 top: 150
             },
             audio: "who_just_said_sheep_ka.wav",
@@ -296,7 +296,7 @@ let attention_check_procedure_prob13 = {
         {
             image:"whitesquare.png",
             image_position: {
-                left: 780,
+                left: 760,
                 top: 150
             },
             audio: "who_just_said_chicken_po.wav",
@@ -343,7 +343,7 @@ let attention_check_procedure_prob15 = {
         {
             image:"whitesquare.png",
             image_position: {
-                left: 780,
+                left: 760,
                 top: 150
             },
             audio: "who_just_said_duck_ka.wav",
@@ -367,7 +367,7 @@ let attention_check_procedure_prob16 = {
         {
             image:"norl5.png",
             image_position: {
-                left: 780,
+                left: 760,
                 top: 150
             },
             audio: "What_does_a_norl_like_to_eat.wav",

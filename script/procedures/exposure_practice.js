@@ -26,7 +26,7 @@ let exposure_practice_trial_procedure = {
         {
             image:"norl1.png",
             image_position: {
-                left: 780,
+                left: 760,
                 top: 120
             },
             audio: "v2_22.Touch_the_sad_face..wav",
